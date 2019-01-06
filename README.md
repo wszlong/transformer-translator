@@ -4,7 +4,7 @@ CUDA Based C++ code for Transformer(NMT) Decoder
 Usage
 ---
 1. Employ [Transformer](https://github.com/wszlong/transformer) to train a NMT model.
-2. Utilize [transformer-translator](https://github.com/wszlong/transformer-translator) to decode (run `./test.sh`).
+2. Employ [transformer-translator](https://github.com/wszlong/transformer-translator) to decode (run `./test.sh`).
 
 Contact
 ---
