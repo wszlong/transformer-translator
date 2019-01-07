@@ -16,4 +16,4 @@ Usage
 Contact
 ---
 
-If you have questions, suggestions and bug reports, please email wszlong@gmail.com.
+If you have questions, suggestions and bug reports, please email wszlong@gmail.com or long.zhou@nlpr.ia.ac.cn.
